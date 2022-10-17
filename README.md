@@ -13,6 +13,10 @@ Open the project in Intellij and go to > src > java > com.example.swiftide > Lau
 
 ![](src/main/resources/com/example/swiftide/swiftide.png)
 
+### LinkedList example
+
+![](src/main/resources/com/example/swiftide/ListNode.png)
+
 ## Implementation 
 
 ### Classes 
