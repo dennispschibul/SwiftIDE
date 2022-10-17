@@ -1,0 +1,133 @@
+.root {
+    -fx-background-color: #3B4252;
+}
+
+#outputWindow {
+    -fx-padding: 20px;
+    -fx-background-color: #2E3440;
+    -fx-text-fill: #FFFFFF;
+    -fx-border-color: #4C566A;
+    -fx-highlight-fill: #4C566A;
+    -fx-font-size: 15px;
+}
+
+
+
+ #outputWindow .content {
+    -fx-background-color: #2E3440;
+    -fx-border-insets: 40px;
+    -fx-background-radius: 0;
+}
+#outputWindow .scroll-bar{
+    -fx-background-color: #2E3440;
+    -fx-pref-width: 12px;
+    -fx-pref-height: 12px;
+}
+
+
+#outputWindow .scroll-bar .thumb{
+    -fx-background-color: #4C566A;
+}
+
+#inputWindow {
+    -fx-padding: 20px;
+    -fx-background-color: #2E3440;
+    -fx-border-color: #4C566A;
+    -fx-highlight-fill: #4C566A;
+}
+
+#inputWindow .operator {
+    -fx-fill: #2E3440;
+}
+
+#inputWindow .caret{
+    -fx-stroke: #FFFFFF;
+}
+
+.styled-text-area .text{
+    -fx-fill: #FFFFFF;
+    -fx-font-size: 16px;
+}
+
+
+
+#inputWindow .content {
+    -fx-background-color: #2E3440;
+    -fx-border-insets: 40px;
+    -fx-background-radius: 0;
+}
+#inputWindow .scroll-bar{
+    -fx-background-color: #2E3440;
+    -fx-pref-width: 12px;
+    -fx-pref-height: 12px;
+}
+
+
+#inputWindow .scroll-bar .thumb{
+    -fx-background-color: #4C566A;
+}
+
+.split-pane {
+    -fx-background-color: #4C566A;
+}
+
+.split-pane:horizontal .split-pane-divider {
+    -fx-background-color: #4C566A;
+    -fx-pref-width: 2px;
+}
+
+#compileButton {
+    -fx-background-color: #3B4252;
+}
+
+#compileButton:hover {
+    -fx-background-color: #4C566A;
+}
+
+#progressBar .track {
+    -fx-background-color: #4C566A;
+}
+
+.lineno {
+    -fx-background-color: #2E3440;
+}
+
+#inputWindow .keyword {
+    -fx-fill: #FFDD85;
+    -fx-font-weight: bold;
+}
+
+#inputWindow .semicolon {
+    -fx-font-weight: bold;
+}
+
+#inputWindow .paren {
+    -fx-fill: #FFD9FD;
+    -fx-font-weight: bold;
+}
+#inputWindow .bracket {
+    -fx-fill: #D8DEE9;
+    -fx-font-weight: bold;
+}
+#inputWindow .brace {
+    -fx-fill: #ECEFF4;
+    -fx-font-weight: bold;
+}
+#inputWindow .string {
+    -fx-fill: #84AEFF;
+}
+
+#inputWindow .comment {
+    -fx-fill: #8CFFBA;
+}
+
+#exitCode {
+    -fx-fill: #c23232;
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+}
+
+
+
+
+
