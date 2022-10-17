@@ -5,7 +5,7 @@ SwiftIDE is a light weight IDE for Swift. It is only ment for testing not actual
 ### Features
 - Syntax highlighting
 - Input/Output panel
-- line numbering 
+- Line numbering 
 
 ## How to run the project
 The Project is build with Intellij IDEA. 
